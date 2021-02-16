@@ -1,0 +1,8 @@
+Your 4 Letter Words:
+
+toat, nltk.corpus.words.words()[203994]
+tolt, nltk.corpus.words.words()[677691]
+alto, nltk.corpus.words.words()[716304]
+lota, nltk.corpus.words.words()[818619]
+
+4 Words
